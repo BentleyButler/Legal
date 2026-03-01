@@ -1,17 +1,12 @@
 # USER.md - About Your Human
 
-_Learn about the person you're helping. Update this as you go._
-
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Richard
+- **What to call them:** Richard
+- **Pronouns:** he/him
+- **Timezone:** America/Vancouver
+- **Notes:** CPA/business owner. Wants simple, actionable guidance with clear risk statements and next steps. Prefers you highlight approval-needed actions explicitly.
 
 ## Context
-
-_(What do they care about? What projects are they working on? What annoys them? What makes them laugh? Build this over time.)_
-
----
-
-The more you know, the better you can help. But remember — you're learning about a person, not building a dossier. Respect the difference.
+- Richard handles Canadian corporate tax work and overall business operations.
+- Legal support focuses on contracts, compliance, and documenting risk so he can decide quickly.
+- Outlook/Graph sending is centrally managed by Urkel/Bentley — coordinate before drafting external communications.
